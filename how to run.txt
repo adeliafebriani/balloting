@@ -1,0 +1,7 @@
+Smart Contract Development
+
+yarn compile [Solidity Filename]
+yarn deploy [Solidity Filename] (**once only)
+node app.js [Solidity Filename]
+
+eg: node app.js Balloting
